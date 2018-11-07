@@ -12,8 +12,9 @@ A repo to test the git tags usage
 * add changes to the new branch ✅
 * create a tag within the branch ✅
 * publish the tag ✅
-* create a PR against master and merge it
-* delete the branch
+* create a PR against master and merge it ✅
+* delete the branch ✅
+* go to the `new-branch` tag and see if you can get the data
 
 
 **About git tags**
