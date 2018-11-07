@@ -14,4 +14,5 @@ A repo to test the git tags usage
 * delete the branch
 
 
-
+**About git tags**
+Check the awesome post from Kolosek: https://dev.to/neshaz/a-tutorial-for-tagging-releases-in-git-147e or you can use [this link](about-tags.md).
